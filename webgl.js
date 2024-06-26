@@ -87,7 +87,7 @@ function init() {
     });
 
     onWindowResize();
-    setInterval(changeColors, 20000);
+    setInterval(changeColors, 40000);
 }
 
 function changeColors() {
